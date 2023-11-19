@@ -51,7 +51,7 @@ fn main() {
 		println!("sorry, you are not eligible to vote");
 	} 
 
-	if x == 150{
+	if x > 150{
 		break;
 	}
 

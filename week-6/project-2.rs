@@ -32,7 +32,7 @@ fn main() {
 		println!("NAME:{} INCENTIVE:N100000",input1 );
 	    }
 
-	    if x == 500{
+	    if x > 500{
 	    	break
 	    }
     }
